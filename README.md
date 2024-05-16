@@ -1,4 +1,4 @@
-# mpm_minecraft
+# minecraft
 Minecraft Package Manager (MPM)
 MPM is a package manager for Minecraft's ComputerCraft mod. With MPM, you can easily manage and update scripts and utilities across your in-game computers, pulling directly from GitHub repositories.
 
