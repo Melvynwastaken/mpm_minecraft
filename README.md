@@ -16,3 +16,5 @@ mpm list: List all installed packages.
 mpm run <package>: Run a specific package.
 mpm self_update: Update the MPM system itself.
 For instance, to install a package named my_package, you would use the command mpm install my_package.
+
+As of writing this message I'm not finished and still working on it, I hope this might be of use to someone.
